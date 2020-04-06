@@ -2,10 +2,10 @@
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
-## Digital Accessibility for All - Guidance and resources from the Government of Canada's experts
+## Digital Accessibility for All - Guidance and resources from Government of Canada's experts
 
 ### What is the purpose? 
-A place for experts in the Government of Canada Accessibility to share documentation, guides, strategies and resources related to accessibility for the benefit of everyone.
+A place for experts in the Government of Canada Accessibility to share documentation, guides, strategies and other resources related to accessibility for the benefit of everyone.
 
 ### How does it work?
 We're not sure yet. We're working on it!
