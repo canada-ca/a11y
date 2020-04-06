@@ -1,8 +1,8 @@
-# Contributor Covenant Code of Conduct for the [`project_name`] project
+# Contributor Covenant Code of Conduct for the Digital Accessibility Hub
 
 ([Français](#Code-de-conduite-pour-le-projet-nom-du-projet))
 
-Contributors to repositories hosted in [`project_name`] are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
+Contributors to repositories hosted in the Digital Accessibility Hub are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
 
 ## Values and Ethics Code for the Public Sector
 
@@ -44,7 +44,7 @@ Representation of a project may be further defined and clarified by project main
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [`project email`].
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at ssc.aaact-aatia.spc@canada.ca.
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
@@ -62,12 +62,12 @@ This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https
 
 ---
 <!--markdownlint-disable MD025-->
-# Code de conduite pour le projet [`nom du projet`]
+# Code de conduite pour le centre d'accessibilité numérique
 <!--markdownlint-enable MD025-->
 
 ([English](#Contributor-Covenant-Code-of-Conduct-for-the-projectname-project))
 
-Les contributeurs aux dépôts hébergés dans [`nom du projet`] sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le Code de valeurs et d'éthique du secteur public.
+Les contributeurs aux dépôts hébergés dans la projet d'Acc sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le Code de valeurs et d'éthique du secteur public.
 
 ## Notre engagement
 
@@ -105,7 +105,7 @@ La représentation d'un projet peut être mieux défini et clarifié par les res
 
 ## Application des règles
 
-Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :[`courriel`].
+Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante : ssc.aaact-aatia.spc@canada.ca.
 Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
 L'équipe de projet est dans l'obligation de respecter la confidentialité à l'égard du déclarant d'un incident.
 De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.
