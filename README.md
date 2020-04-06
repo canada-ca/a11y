@@ -4,16 +4,16 @@
 
 ## Digital Accessibility for All - Guidance and resources from the Government of Canada's experts
 
-###What is the purpose? 
+### What is the purpose? 
 A place for experts in the Government of Canada Accessibility to share documentation, guides, strategies and resources related to accessibility for the benefit of everyone.
 
-###How does it work?
+### How does it work?
 We're not sure yet. We're working on it!
 
-###Who will use this project?
+### Who will use this project?
 This website is for collaborative work between all public servants within the Government of Canada, and for reference of everyone. Accessibility is a fundamental requirement for all digital creators and audiences.
 
-###What is the goal of this project?
+### What is the goal of this project?
 In the spirit of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the goal is to create a central location for the public to find accessibility resources from the Government of Canada that are useful, shareable, and most importantly easy to find.
 
 ### How to Contribute
