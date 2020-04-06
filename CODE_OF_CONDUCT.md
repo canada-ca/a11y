@@ -2,7 +2,7 @@
 
 ([Français](#Code-de-conduite-pour-le-projet-nom-du-projet))
 
-Contributors to repositories hosted in the Digital Accessibility Hub are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
+Contributors to repositories hosted in the Digital Accessibility Hub are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector.
 
 ## Values and Ethics Code for the Public Sector
 
@@ -10,17 +10,17 @@ The [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, political affiliation, or sexual identity and orientation.
 
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
-* Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the department
+* Focusing on what is best for the accessibility community
 * Showing empathy towards other members
+* Keeping on topics related to the work and accessibility
 
 Examples of unacceptable behavior by participants include:
 
@@ -71,17 +71,17 @@ Les contributeurs aux dépôts hébergés dans la projet d'Acc sont tenus de res
 
 ## Notre engagement
 
-Dans le but de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que collaborateurs et responsables, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tous, quels que soient leur âge, leur taille, leur handicap, leur origine ethnique, leurs caractéristiques sexuelles, leur identité et expression sexuelles, leur niveau d'expérience, leur éducation, leur statut socio-économique, leur nationalité, leur apparence, leur race, leur religion et leur orientation sexuelle et leur identité.
+Dans le but de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que collaborateurs et responsables, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tous, quels que soient leur âge, leur taille, leur handicap, leur origine ethnique, leurs caractéristiques sexuelles, leur identité et expression sexuelles, leur niveau d'expérience, leur éducation, leur statut socio-économique, leur nationalité, leur apparence, leur race, leur religion, leur affiliation politique, et leur orientation sexuelle et leur identité.
 
 ## Nos normes
 
 Exemples de comportements qui contribuent à créer un environnement positif incluent :
 
-* Utiliser un langage accueillant et inclusif
 * Être respectueux des différents points de vue et expériences
 * Accepter gracieusement les critiques constructives
-* Se concentrer sur ce qui est le mieux pour la communauté
+* Se concentrer sur ce qui est le mieux pour la communauté d'accessibilité
 * Faire preuve d'empathie envers les autres membres de la communauté
+* Rester sur des sujets liés au travail et de l'accessibilité
 
 Voici des exemples de comportements inacceptables de la part des participants :
 
