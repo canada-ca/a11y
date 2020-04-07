@@ -10,7 +10,7 @@ The Digital Accessibility Hub is a place for experts in the Government of Canada
 In the spirit of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the goal is to maintain a central location for digital accessibility resources from the Government of Canada that are useful, shareable, and most importantly easy to find.
 
 ### Target audience
-Experts across disciplines in the GC are encouraged to contribute to the Digital Accessibility Hub as a definitive location for serving  accessible digital products to Canada and the world.
+Experts across disciplines in the GC are encouraged to contribute to the Digital Accessibility Hub to serve accessible digital products to Canada and the world.
 
 ### How to contribute
 
