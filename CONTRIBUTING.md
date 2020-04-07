@@ -11,6 +11,14 @@ Feel free to propose changes by creating Pull Requests. If you don't have write 
 If this is your first time contributing on GitHub, don't worry! 
 Let us know if you have any questions: ssc.aaact-aatia-spc@canada.ca
 
+### Contribution guidelines
+
+Contributions to the Digital Accessibility Hub should be provided in **accessible format in conformance to WCAG 2.1 AA**. Acceptable document formats are, in order of preference:
+1. HTML
+2. Word
+3. PowerPoint, Excel
+4. PDF
+
 ### Security
 
 **Do not post any security issues on the public repository!** See [SECURITY.md](SECURITY.md)
