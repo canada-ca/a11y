@@ -13,7 +13,7 @@ Let us know if you have any questions: ssc.aaact-aatia-spc@canada.ca
 
 ### Contribution guidelines
 
-Contributions to the Digital Accessibility Hub should be provided in **accessible format in conformance to WCAG 2.1 AA** and must not include [protected information](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html). Acceptable primary document formats are, in order of preference:
+Contributions to the Digital Accessibility Hub should be provided in an accessible format in conformance to [Web Content Accessibility Guidelines (WCAG) 2.1 level AA](https://www.w3.org/TR/WCAG21/) and must not include [protected information](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html). Acceptable primary document formats are, in order of preference:
 1. HTML
 2. Word
 3. PowerPoint, Excel
@@ -38,7 +38,7 @@ Faites-nous part de vos questions : : ssc.aaact-aatia-spc@canada.ca
 
 ### Directives de contribution
 
-Les contributions au Digital Accessibility Hub doivent être fournies dans **un format accessible conformément aux WCAG 2.1 AA** et ne doivent pas inclure d'[informations protégées](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html). Les formats de documents principaux acceptables sont, par l'ordre de préférence:
+Les contributions au Digital Accessibility Hub doivent être fournies dans un format accessible conformément aux [lignes directrices sur l'accessibilité du contenu Web (WCAG) 2.1 niveaux AA (anglais seulement)](https://www.w3.org/TR/WCAG21/) et ne doivent pas inclure d'[informations protégées](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html). Les formats de documents principaux acceptables sont, par l'ordre de préférence:
 1. HTML
 2. Word (docx)
 3. PowerPoint (pptx), Excel (xlsx)
