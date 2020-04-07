@@ -21,6 +21,8 @@ Contributions to the Digital Accessibility Hub should be provided in **accessibl
 
 **Important:** Any Microsoft Office formats (doc, ppt, xls) provided as primary formats should be supplemented with an accessible HTML or PDF version to allow access to users without Microsoft Office product licenses.
 
+**Note:** It is also acceptable to contribute by linking out to your own external materials meeting these contribution guidelines.
+
 ### Security
 
 **Do not post any security issues on the public repository!** See [SECURITY.md](SECURITY.md)
@@ -43,6 +45,8 @@ Les contributions au Digital Accessibility Hub doivent être fournies dans **un 
 4. PDF
 
 **Important :** Tous les formats Microsoft Office (docx, pptx, xlsx) fournis en tant que formats principaux doivent être complétés par une version HTML ou PDF accessible pour permettre l'accès aux utilisateurs sans licence de produit Microsoft Office.
+
+**Remarque :** Il est également acceptable de contribuer en établissant un lien vers vos propres documents externes répondant à ces directives de contribution.
 
 ### Sécurité
 
