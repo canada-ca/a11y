@@ -29,6 +29,13 @@ ______________________
 
 ## Comment contribuer
 
+N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
+
+Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! 
+Faites-nous part de vos questions : : ssc.aaact-aatia-spc@canada.ca
+
+### Directives de contribution
+
 Les contributions au Digital Accessibility Hub doivent être fournies dans **un format accessible conformément aux WCAG 2.1 AA**. Les formats de documents principaux acceptables sont, par l'ordre de préférence:
 1. HTML
 2. Word (docx)
