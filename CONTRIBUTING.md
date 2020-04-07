@@ -13,11 +13,13 @@ Let us know if you have any questions: ssc.aaact-aatia-spc@canada.ca
 
 ### Contribution guidelines
 
-Contributions to the Digital Accessibility Hub should be provided in **accessible format in conformance to WCAG 2.1 AA**. Acceptable document formats are, in order of preference:
+Contributions to the Digital Accessibility Hub should be provided in **accessible format in conformance to WCAG 2.1 AA**. Acceptable primary document formats are, in order of preference:
 1. HTML
 2. Word
 3. PowerPoint, Excel
 4. PDF
+
+**Important:** Any Microsoft Office formats provided as primary formats should be supplemented with an accessible HTML or PDF version to allow access to users without Microsoft Office product licenses.
 
 ### Security
 
