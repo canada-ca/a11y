@@ -19,7 +19,7 @@ Contributions to the Digital Accessibility Hub should be provided in **accessibl
 3. PowerPoint, Excel
 4. PDF
 
-**Important:** Any Microsoft Office formats provided as primary formats should be supplemented with an accessible HTML or PDF version to allow access to users without Microsoft Office product licenses.
+**Important:** Any Microsoft Office formats (doc, ppt, xls) provided as primary formats should be supplemented with an accessible HTML or PDF version to allow access to users without Microsoft Office product licenses.
 
 ### Security
 
@@ -29,12 +29,13 @@ ______________________
 
 ## Comment contribuer
 
-Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
+Les contributions au Digital Accessibility Hub doivent être fournies dans **un format accessible conformément aux WCAG 2.1 AA**. Les formats de documents principaux acceptables sont, par l'ordre de préférence:
+1. HTML
+2. Word (docx)
+3. PowerPoint (pptx), Excel (xlsx)
+4. PDF
 
-N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
-
-Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! 
-Faites-nous part de vos questions : : ssc.aaact-aatia-spc@canada.ca
+**Important :** Tous les formats Microsoft Office (docx, pptx, xlsx) fournis en tant que formats principaux doivent être complétés par une version HTML ou PDF accessible pour permettre l'accès aux utilisateurs sans licence de produit Microsoft Office.
 
 ### Sécurité
 
