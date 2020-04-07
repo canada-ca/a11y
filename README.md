@@ -24,7 +24,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Gabarit pour dépôts de code source ouvert du gouvernement du Canada
+## Centre d'accessibilité numérique - Conseils et ressources d'experts du gouvernement du Canada
 
 - Quel est ce projet?
 - Comment ça marche?
