@@ -17,11 +17,9 @@ Contributions to the Digital Accessibility Hub should be provided in an accessib
 1. HTML
 2. Word
 3. PowerPoint, Excel
-4. PDF
+4. PDF (for print-only)
 
-**Important:** Any Microsoft Office formats (doc, ppt, xls) provided as primary formats should be supplemented with an accessible HTML or PDF version to allow access to users without Microsoft Office product licenses.
-
-**Note:** It is also acceptable to contribute by linking out to your own external materials meeting these contribution guidelines.
+**Note:** It is acceptable to contribute by linking out to your own public-facing materials meeting these contribution guidelines.
 
 ### Security
 
