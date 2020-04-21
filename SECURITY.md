@@ -2,7 +2,7 @@
 
 # Security
 
-**Do not post any security issues on the public repository!** Security vulnerabilities must be reported by email to ...
+**Do not post any security issues on the public repository!** Security vulnerabilities must be reported by email to [ssc.aaact-aatia-spc@canada.ca](mailto:ssc.aaact-aatia-spc@canada.ca?subject=GitHub%20-%20Digital%20Accessibility%20Hub%20SECURITY)
 
 ______________________
 
