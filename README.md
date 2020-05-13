@@ -26,10 +26,13 @@ ______________________
 
 ## Centre d'accessibilité numérique - Conseils et ressources d'experts du gouvernement du Canada
 
-- Quel est ce projet?
-- Comment ça marche?
-- Qui utilisera ce projet?
-- Quel est le but de ce projet?
+### Objectif
+Le Centre d'accessibilité numérique est un endroit où les experts au sein du Gouvernement du Canada \( GC\) peuvent partager des documents, guides, stratégies et autres ressources liées à l'accessibilité et qui peuvent bénéficier tout le monde.
+
+Dans l'esprit des [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html), dans l'objectif qu'offre un emplacement central pour les ressources numériques Gouvernement du Canada en matière d'accessibilité qui seront utiles, partageables, et faciles à trouver.
+
+### Public cible
+Les experts de nombreuses disciplines au sein du GC sont encouragés à contribuer au Centre d'accessibilité numérique afin de servir au Canada et au monde entier des produits numériques accessibles.
 
 ### Comment contribuer
 
