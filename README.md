@@ -2,10 +2,10 @@
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
-## Digital Accessibility Hub - Guidance and resources from Government of Canada's experts
+## Digital Accessibility Toolkit - Guidance and resources from Government of Canada's experts
 
 ### Purpose
-The Digital Accessibility Hub is a place for experts in the Government of Canada to share documentation, guides, strategies and other resources related to accessibility for the benefit of everyone.
+The Digital Accessibility Toolkit is a place for experts in the Government of Canada to share documentation, guides, strategies and other resources related to accessibility for the benefit of everyone.
 
 In the spirit of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the goal is to maintain a central location for digital accessibility resources from the Government of Canada that are useful, shareable, and most importantly easy to find.
 
@@ -24,10 +24,10 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-## Centre d'accessibilité numérique - Conseils et ressources d'experts du gouvernement du Canada
+## Boîte à outils d'accessibilité numérique - Conseils et ressources d'experts du gouvernement du Canada
 
 ### Objectif
-Le Centre d'accessibilité numérique est un endroit où les experts au sein du Gouvernement du Canada \( GC\) peuvent partager des documents, guides, stratégies et autres ressources liées à l'accessibilité et qui peuvent bénéficier tout le monde.
+La boîte à outils d'accessibilité numérique est un endroit où les experts au sein du Gouvernement du Canada \( GC\) peuvent partager des documents, guides, stratégies et autres ressources liées à l'accessibilité et qui peuvent bénéficier tout le monde.
 
 Dans l'esprit des [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html), dans l'objectif qu'offre un emplacement central pour les ressources numériques Gouvernement du Canada en matière d'accessibilité qui seront utiles, partageables, et faciles à trouver.
 

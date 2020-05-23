@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct for the Digital Accessibility Hub
+# Contributor Covenant Code of Conduct for the Digital Accessibility Toolkit
 
 ([Français](#Code-de-conduite-pour-le-projet-nom-du-projet))
 
@@ -62,7 +62,7 @@ This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https
 
 ---
 <!--markdownlint-disable MD025-->
-# Code de conduite pour le centre d'accessibilité numérique
+# Code de conduite pour la boîte à outils d'accessibilité numérique
 <!--markdownlint-enable MD025-->
 
 ([English](#Contributor-Covenant-Code-of-Conduct-for-the-projectname-project))
