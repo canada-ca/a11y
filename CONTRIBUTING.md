@@ -8,12 +8,12 @@ When contributing, post comments and discuss changes you wish to make via Issues
 
 Feel free to propose changes by creating Pull Requests. If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to. Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
 
-If this is your first time contributing on GitHub, don't worry! 
+If this is your first time contributing on GitHub, don't worry!
 Let us know if you have any questions: [ssc.aaact-aatia-spc@canada.ca](mailto:ssc.aaact-aatia-spc@canada.ca?subject=GitHub%20-%20Digital%20Accessibility%20Hub)
 
 ### Contribution guidelines
 
-Contributions to the Digital Accessibility Hub should be provided in an accessible format in conformance to [Web Content Accessibility Guidelines (WCAG) 2.1 level AA](https://www.w3.org/TR/WCAG21/) and must not include [protected information](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html). Acceptable primary document formats are, in order of preference:
+Contributions to the Digital Accessibility Toolkit should be provided in an accessible format in conformance to [Web Content Accessibility Guidelines (WCAG) 2.1 level AA](https://www.w3.org/TR/WCAG21/) and must not include [protected information](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-eng.html). Acceptable primary document formats are, in order of preference:
 1. HTML
 2. Word
 3. PowerPoint, Excel
@@ -31,12 +31,12 @@ ______________________
 
 N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
 
-Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! 
+Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas!
 Faites-nous part de vos questions : : ssc.aaact-aatia-spc@canada.ca
 
 ### Directives de contribution
 
-Les contributions au Digital Accessibility Hub doivent être fournies dans un format accessible conformément aux [lignes directrices sur l'accessibilité du contenu Web (WCAG) 2.1 niveaux AA (anglais seulement)](https://www.w3.org/TR/WCAG21/) et ne doivent pas inclure d'[informations protégées](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html). Les formats de documents principaux acceptables sont, par l'ordre de préférence:
+Les contributions au Boîte à outils d'accessibilité numérique doivent être fournies dans un format accessible conformément aux [lignes directrices sur l'accessibilité du contenu Web (WCAG) 2.1 niveaux AA (anglais seulement)](https://www.w3.org/TR/WCAG21/) et ne doivent pas inclure d'[informations protégées](https://www.tpsgc-pwgsc.gc.ca/esc-src/protection-safeguarding/niveaux-levels-fra.html). Les formats de documents principaux acceptables sont, par l'ordre de préférence:
 1. HTML
 2. Word (docx)
 3. PowerPoint (pptx), Excel (xlsx)
