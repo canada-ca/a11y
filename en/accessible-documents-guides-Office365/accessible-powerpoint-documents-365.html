@@ -6,11 +6,11 @@
 <head>
     <meta charset="utf-8">
     <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-    <title>Accessible PowerPoint documents - Accessible document guides - Office 2016 - Digital Accessibility Toolkit - Government of Canada</title>
+    <title>Accessible PowerPoint documents - Accessible document guides - Office 365 - Digital Accessibility Toolkit - Government of Canada</title>
     <meta content="width=device-width,initial-scale=1" name="viewport">
     <!-- Meta data -->
     <meta name="description"
-        content="Accessible practices for Microsoft PowerPoint 2016 document creation.">
+        content="Accessible practices for Microsoft PowerPoint document creation.">
     <!-- Meta data-->
     <!-- Load closure template scripts -->
     <script src="https://ssl-templates.services.gc.ca/rn/cls/wet/gcweb/cdts/compiled/soyutils.js"></script>
@@ -34,7 +34,7 @@
                  "href" : "../../index.html"
              },{
                  "title": "Accessible document guides",
-                 "href": "how-to-create-accessible-documents.html"
+                 "href": "how-to-create-accessible-documents-365.html"
              }],
             "lngLinks": [{
                 "lang": "fr",
@@ -49,21 +49,17 @@
 
         <div class="row mrgn-tp-lg">
           <ul class="toc lst-spcd col-md-12">
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="how-to-create-accessible-documents.html">1. How to create accessible documents</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="accessible-word-documents.html">2. Accessible Word documents</a></li>
-            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="accessible-pdf-documents.html">3. Accessible PDF documents</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="how-to-create-accessible-documents-365.html">1. How to create accessible documents</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="accessible-word-documents-365.html">2. Accessible Word documents</a></li>
+            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="accessible-pdf-documents-365.html">3. Accessible PDF documents</a></li>
             <li class="col-md-4 col-sm-6 clr-lft-md clr-lft-lg"><a class="list-group-item active">4. Accessible PowerPoint documents</a></li>
-            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="accessible-excel-documents.html">5. Accessible Excel documents</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="accessible-visio-diagrams.html">6. Accessible Visio diagrams</a></li>
+            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="accessible-excel-documents-365.html">5. Accessible Excel documents</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="accessible-visio-diagrams-365.html">6. Accessible Visio diagrams</a></li>
           </ul>
         </div>
 
         <h2>Accessibility Checker</h2>
         <p>The Microsoft Office suite (Word, Excel, Power Point) provides a built-in accessibility validator. The checker does not identify all issues but looks for things such as missing alternative text, duplicate slide titles and potential reading order issues.</p>
-
-        <div class="row"><div class="col-md-7">
-          <img class="img-responsive" src="../../images/accessibility-document-images/powerpoint/image002.jpg" alt="Screenshot of Check for Issues menu" />
-        </div></div>
 
         <p>How to use the Accessibility Checker:</p>
 
@@ -73,6 +69,12 @@
           <li>Review the results in the <strong>Accessibility Checker</strong> pane</li>
           <li>Address the listed issues. Helpful information to understand and fix the different issues is provided at the bottom of the pane</li>
         </ol>
+
+        <div class="row"><div class="col-md-7">
+          <img class="img-responsive" src="images/powerpoint-365-001.jpg" alt="Screenshot of Check for Issues menu" />
+        </div></div>
+
+        <p>The <strong>Accessibility Checker</strong> is also located on the Ribbon under the <strong>Review</strong> tab > <strong>Check Accessibility</strong>. Activate the "Keep accessibility checker running while I work" check box in the checker pane to keep track of accessibility issues in real time.</p>
 
         <h2>PowerPoint structure</h2>
 
@@ -105,6 +107,10 @@
             slide, type a unique and descriptive title</li>
         </ol>
 
+        <div class="row"><div class="col-md-7">
+          <img class="img-responsive" src="images/powerpoint-365-002.jpg" alt="Screenshot of Check for Issues menu" />
+        </div></div>
+
         <p>To make a title invisible on
           the slide, but still voiced by screen readers:</p>
 
@@ -117,6 +123,10 @@
             pane, locate the <strong>Title</strong> text box, and then activate the eye icon next to
             it</li>
         </ol>
+
+        <div class="row"><div class="col-md-7">
+          <img class="img-responsive" src="images/powerpoint-365-003.jpg" alt="Screenshot of Check for Issues menu" />
+        </div></div>
 
         <h3>Text structure</h3>
 
@@ -132,13 +142,13 @@
           <li>30-point
             type</li>
           <li>Sans-serif
-            fonts, such as Arial, Helvetica, Verdana, Calibri, or Century Gothic</li>
+            fonts, such as Arial, Helvetica, Verdana, or Calibric</li>
         </ul>
 
         <p>Three to seven bullet points per slide is a good rule of
           thumb.</p>
 
-        <p>Avoid using all capitals or excessive italics or underline.</p>
+        <p>Avoid using all capitals or excessive italics or bold.</p>
 
         <p>Ensure there are blank spaces between sentences or
         paragraphs.</p>
@@ -176,12 +186,17 @@
 
         <p>Use
         the <strong>Selection</strong><strong> Pane</strong> to set the order in which the screen readers
-        read the slide contents. The <strong>Selection</strong><strong> Pane</strong> lists the objects on
-        the slide in bottom to top order in the Office 2013 version of PowerPoint and
-        top to bottom in the Office 2016 version of PowerPoint. When the screen reader
-        reads this slide, it reads the objects in the reverse order listed in the <strong>Selection</strong><strong>
-        Pane</strong>. The pane will show every object on the slide. Highlighting an object
-        in the pane will also highlight it in the slide. </p>
+        read the slide contents. The Pane will show every object onn the slide. Highlighting an object in 
+		the pane will also highlight it in the slide. </p>
+		
+		<p>To check the reading order: </p>
+		
+		<ol>
+          <li>Click in the blank space just outside the slide. </li>
+          <li>Press the "Tab" key repeatedly. The order in which objects are selected should match the logicial reading order.</li>
+        </ol>
+
+		<p>To check the reading order: </p>
 
         <ol>
           <li>On the <strong>Home</strong>
@@ -198,7 +213,11 @@
                 Backward)</li>
             </ol>
           </li>
-          </ol>
+        </ol>
+
+        <div class="row"><div class="col-md-7">
+          <img class="img-responsive" src="images/powerpoint-365-004.jpg" alt="Screenshot of Check for Issues menu" />
+        </div></div>
 
         <h3>Tables</h3>
 
@@ -249,28 +268,27 @@
         <p>PowerPoint presentations usually include images. Images need equivalent alternative text. To add <strong>alt text</strong> to an image:</p>
 
         <ol>
-          <li>Open the context menu for the image by right-clicking or pressing the application key . </li>
-          <li>Choose <strong>Format Picture</strong> </li>
-          <li>In the <strong>Format Picture</strong> sidebar, activate the <strong>Size &amp; Properties</strong> icon and expand <strong>Alt Text</strong></li>
-          <li>Enter a title in the <strong>Title</strong> box. Note: This box should only be filled in if you are entering a detailed or long explanation in the Description box</li>
-          <li>Enter an appropriate alternative text in the in the <strong>Description</strong> box</li>
-          <li>Activate the <strong>Close</strong> button</li>
+          <li>Select the image </li>
+          <li>Open the <strong>Format</strong> tab in the ribbon </li>
+          <li>Activate the <strong>Alt Text</strong> tool </li>
+          <li>If an image conveys no meaningful information (i.e. it is decorative or redundant) check "Mark as decorative" </li>
+          <li>If the image is meaningful, conver in words the meaning, function, or purpose communicated by the image </li>
+          <li>Activate the <strong>Close</strong> button </li>
         </ol>
 
         <div class="row"><div class="col-md-7">
-          <img class="img-responsive" src="../../images/accessibility-document-images/powerpoint/image003.jpg" alt="Screenshot of Format Picture tool">
+          <img class="img-responsive" src="images/powerpoint-365-005.jpg" alt="Screenshot of Format Picture tool">
         </div></div>
 
-        <p>Tips and Guidelines:</p>
+        <p>Be sure to check and update any automatically generated alternative text for images.</p>
+
+		<p>Tips and Guidelines:</p>
         <ul>
           <li>Don’t
             begin with the words “Image of” at the start of the alt text. Screen readers
             tell the user that there is an image and then read the alt text.</li>
           <li>Do
             begin with “Screenshot of…” if the image is a screenshot</li>
-          <li>An
-            image requires no alternative text if it is purely decorative. Set the alt text
-            to “decorative” (no quotes).</li>
         </ul>
 
         <h3>SmartArt graphics (charts
@@ -285,15 +303,14 @@
 
         <ol>
           <li>Open the
-            context menu for the chart/diagram and activate <strong>Format Chart Area</strong></li>
-          <li>The <strong>Format Chart Area</strong>
+            context menu for the chart/diagram and activate <strong>Edit Alt Text</strong></li>
+          <li>The <strong>Alt Text</strong>
             sidebar will appear</li>
-          <li>Activate <strong>Layout and Properties</strong></li>
           <li>Provide a
             meaningful long description
             <ol>
               <li>Describe the
-                title of the chart</li>
+                title of the chart / diagram</li>
               <li>The role it
                 plays in the document</li>
               <li>The
@@ -370,21 +387,8 @@
             context menu and activate <strong>Group</strong></li>
         </ol>
 
-        <p>Alternatively, you can do one of the following after
-          selecting the element you wish to group:</p>
-
-        <ol>
-          <li>To group
-            shapes and other objects, on the <strong>Drawing
-              Tools Format</strong> tab, activate <strong>Group &gt; Group</strong></li>
-          <li>To group
-            pictures, on the <strong>Picture
-              Tools Format</strong> tab, activate <strong>Group &gt; Group</strong></li>
-        </ol>
-
-        <div class="row"><div class="col-md-7">
-          <img class="img-responsive" src="../../images/accessibility-document-images/powerpoint/image004.jpg" alt="Screenshot of Group menu">
-        </div></div>
+        <p>Alternatively, you can select the elements you want to group and on the Drawing Tools
+          &gt; <strong>Format</strong> tab, activate <strong>Group</strong> &gt; <strong>Group</strong></p>
 
         <h2>Additional resources</h2>
         <ul>
@@ -398,8 +402,8 @@
         </ul>
 
         <ul class="pager mrgn-tp-xl">
-          <li class="previous"><a href="accessible-pdf-documents.html" rel="prev">Previous: Accessible PDF documents</a></li>
-          <li class="next"><a href="accessible-excel-documents.html" rel="next">Next: Accessible Excel documents</a></li>
+          <li class="previous"><a href="accessible-pdf-documents-365.html" rel="prev">Previous: Accessible PDF documents</a></li>
+          <li class="next"><a href="accessible-excel-documents-365.html" rel="next">Next: Accessible Excel documents</a></li>
         </ul>
 
         <div id="def-preFooter"></div>
