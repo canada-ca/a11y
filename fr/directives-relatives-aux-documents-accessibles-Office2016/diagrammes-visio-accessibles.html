@@ -64,10 +64,12 @@
 
         <h3>Contraste du texte</h3>
         <p>Le contraste du texte doit être d’au moins 4,5:1 par rapport à l’arrière-plan. Comme les diagrammes sont souvent visualisés avec un zoom très faible, nous vous recommandons de maintenir, au minimum, ce niveau de contraste pour tous les textes, quelle qu’en soit la taille.</p>
-        <p>Pour vérifier le contraste des couleurs, utilisez un outil comme l’<a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Analyseur de contraste des couleurs (en anglais seulement)</a> ou le <a
-        href="https://webaim.org/resources/contrastchecker/">vérificateur de contraste de WebAIM (en anglais seulement)</a>.</p>
-        <p>Évitez de placer des images d’arrière-plan complexes derrière le texte.</p>
-        <p> Lorsqu’il est nécessaire d’utiliser des images d’arrière-plan complexes ou des fonds à faible contraste, définissez un contour autour du texte offrant un contraste suffisant par rapport à la couleur du texte en premier plan.</p>
+
+        <ul>
+          <li>Pour vérifier le contraste des couleurs, utilisez un outil comme l’<a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Analyseur de contraste des couleurs (en anglais seulement)</a> ou le <a href="https://webaim.org/resources/contrastchecker/">vérificateur de contraste de WebAIM (en anglais seulement)</a>.</li>
+          <li>Évitez de placer des images d’arrière-plan complexes derrière le texte.</li>
+          <li>Lorsqu’il est nécessaire d’utiliser des images d’arrière-plan complexes ou des fonds à faible contraste, définissez un contour autour du texte offrant un contraste suffisant par rapport à la couleur du texte en premier plan.</li>
+        </ul>
 
         <h3>Utilisation de la couleur seule pour transmettre de l’information</h3>
         <p>Veillez à ce que la couleur ne soit pas le seul moyen utilisé pour transmettre de l’information. Comme le codage par couleur est une stratégie souvent utilisée en infographie, il s’agit d’un problème d’accessibilité fréquent. Toute l’information transmise par couleur doit également être offerte par le biais d’autres méthodes d’identification (de façon visuelle et textuelle), comme des étiquettes, des symboles ou l’ajout d’un motif unique à la zone colorée.</p>
@@ -80,16 +82,14 @@
 
         <p>Comme les diagrammes sont souvent remplis d’abréviations, la définition de ces abréviations favorise la compréhension de tous les utilisateurs. Consultez les directives sur les <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-located.html">abréviations (en anglais seulement)</a> de WCAG.</p>
         <p>Si possible, selon la disposition, insérez les abréviations la première fois qu’elles apparaissent.<br>
-        P. ex. Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (AATIA)</p>
-        <p>Étant donné que les diagrammes sont souvent visualisés dans un ordre non linéaire, il est généralement préférable de <a href="https://www.w3.org/TR/WCAG20-TECHS/G62.html">fournir un glossaire (en anglais seulement)</a>. Le glossaire doit faire partie
-        du texte du document, sous un en-tête comme «&#8201;Glossaire des abréviations&#8201;», de manière à pouvoir le retrouver facilement.</p>
+          P. ex. Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (AATIA)</p>
+        <p>Étant donné que les diagrammes sont souvent visualisés dans un ordre non linéaire, il est généralement préférable de <a href="https://www.w3.org/TR/WCAG20-TECHS/G62.html">fournir un glossaire (en anglais seulement)</a>. Le glossaire doit faire partie du texte du document, sous un en-tête comme «&#8201;Glossaire des abréviations&#8201;», de manière à pouvoir le retrouver facilement.</p>
 
         <h3>Texte intégré à des images</h3>
         <p>À moins que ce ne soit essentiel, <a href="https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html">n’intégrez pas de texte à des images (en anglais seulement)</a>.</p>
 
         <h2>Solutions de remplacement en format texte</h2>
-        <p>Les diagrammes Visio, de par leur nature, transmettent l’information de façon visuelle. Bien que Visio comporte certaines fonctions pour aider les utilisateurs aveugles à naviguer à l’intérieur de documents (consultez la section «&#8201;Caractéristiques d’accessibilité de Visio&#8201;» ci-dessous), une solution de remplacement en
-        format texte qui ne dépend pas de l’organisation visuelle est essentielle lors de l’exportation du document Visio au format PDF, en image ou lorsque vous intégrez le diagramme à un autre document ou à une page Web.</p>
+        <p>Les diagrammes Visio, de par leur nature, transmettent l’information de façon visuelle. Bien que Visio comporte certaines fonctions pour aider les utilisateurs aveugles à naviguer à l’intérieur de documents (consultez la section «&#8201;Caractéristiques d’accessibilité de Visio&#8201;» ci-dessous), une solution de remplacement en format texte qui ne dépend pas de l’organisation visuelle est essentielle lors de l’exportation du document Visio au format PDF, en image ou lorsque vous intégrez le diagramme à un autre document ou à une page Web.</p>
 
         <h3>Aperçu du texte (de remplacement) court</h3>
         <p>Un court texte (65 caractères ou moins) doit répondre à la question «&#8201;quelle est l’information transmise par le diagramme?&#8201;» Le texte court peut servir de titre évocateur au diagramme. </p>
@@ -100,7 +100,11 @@
 
         <h4>Exemples</h4>
         <p>Dans le cas d’une carte routière avec itinéraires, la description longue décrit chaque étape permettant de suivre les itinéraires.</p>
-        <p><img src="images/accessibility-document-images/visio-fr/image003.jpg" alt="Organigramme illustrant le processus de connexion"></p>
+
+        <div class="row"><div class="col-md-7 mrgn-bttm-md">
+          <img class="img-responsive" src="images/visio-01.jpg" alt="Organigramme illustrant le processus de connexion">
+        </div></div>
+
         <p>Pour transmettre adéquatement à tous les utilisateurs le message d’un organigramme, la description longue utilise des éléments numériques.</p>
 
         <div class="brdr-rds-0 well">
@@ -125,22 +129,31 @@
         <p>À l’aide du format HTML, il est possible d’offrir une description textuelle complète décrivant toutes les relations avec des hyperliens. Pour améliorer la convivialité, prolongez la description longue (décrite ci-dessus pour l’organigramme et le diagramme de composants) avec des liens intégrés à la page, vers des composants connexes. De cette façon, les utilisateurs de lecteurs d’écran ont la possibilité de «&#8201;suivre les flèches&#8201;» plus rapidement.</p>
         <p>Exemple d’organigramme de flux de données complexe&nbsp;:</p>
 
-        <h4>Composant D (en-tête)</h4>
-        <h5>Sources de données&nbsp;:</h5>
-        <p><a href="#composantA">Composant A</a> (liens vers numéro d’en-tête du composant A)</p>
-        <p><a href="#composantB">Composant B</a> (liens vers numéro d’en-tête du composant B)</p>
+        <div class="brdr-rds-0 well">
+          <h4>Composant D (en-tête)</h4>
+          <h5>Sources de données&nbsp;:</h5>
+          <ul>
+            <li><a href="#composantA">Composant A</a> (liens vers numéro d’en-tête du composant A)</li>
+            <li><a href="#composantB">Composant B</a> (liens vers numéro d’en-tête du composant B)</li>
+          </ul>
 
-        <h5>Flux de données vers&nbsp;:</h5>
-        <p><a href="#composantC">Composant C</a> (liens vers numéro d’en-tête du composant C) à <a href="#connecteur1">Connecteur&nbsp;1</a> (liens vers numéro d’en-tête du connecteur&nbsp;1)</p>
-        <p>Ajoutez d’autres informations pertinentes sur le composant D.</p>
+          <h5>Flux de données vers&nbsp;:</h5>
+          <ul>
+            <li><a href="#composantC">Composant C</a> (liens vers numéro d’en-tête du composant C) à <a href="#connecteur1">Connecteur&nbsp;1</a> (liens vers numéro d’en-tête du connecteur&nbsp;1)</li>
+          </ul>
+          <p>Ajoutez d’autres informations pertinentes sur le composant D.</p>
+        </div>
 
         <h2>Caractéristiques d’accessibilité de Visio</h2>
         <p>Microsoft a récemment publié un guide sur <a href="https://support.office.com/en-us/article/make-your-visio-diagram-accessible-e2c847a9-f010-4fef-af65-16e252829d44">Rendre les diagrammes Visio accessibles (en anglais seulement)</a>.</p>
-        <p>Il est important de comprendre <a href="https://support.office.com/en-us/article/use-a-screen-reader-to-read-visio-diagrams-45ff89fc-fcd8-4c99-bc21-70eb9af29a61">la façon dont un utilisateur de lecteur d’écran
-        lit un diagramme Visio&nbsp;(en anglais seulement):</a></p>
-        <p>Ils utilisent la touche de tabulation pour passer d’une forme à l’autre dans un ordre prédéfini.</p>
-        <p>Les formes sont décrites selon leur texte de remplacement («&#8201;alt text&#8201;»), leur position et leur mise en forme.</p>
-        <p>Les points de départ et d’arrivée des connecteurs sont énoncés.</p>
+        <p>Il est important de comprendre <a href="https://support.office.com/en-us/article/use-a-screen-reader-to-read-visio-diagrams-45ff89fc-fcd8-4c99-bc21-70eb9af29a61">la façon dont un utilisateur de lecteur d’écran lit un diagramme Visio&nbsp;(en anglais seulement):</a></p>
+
+        <ul>
+          <li>Ils utilisent la touche de tabulation pour passer d’une forme à l’autre dans un ordre prédéfini.</li>
+          <li>Les formes sont décrites selon leur texte de remplacement («&#8201;alt text&#8201;»), leur position et leur mise en forme.</li>
+          <li>Les points de départ et d’arrivée des connecteurs sont énoncés.</li>
+        </ul>
+
         <p>Voici donc les deux principales caractéristiques d’accessibilité des documents Visio&nbsp;: l’ordre de lecture et le texte de remplacement.</p>
 
         <h3>Ordre de lecture</h3>
@@ -151,9 +164,13 @@
         <h3>Texte de remplacement («&nbsp;alt text&nbsp;»)</h3>
         <p>Visio offre la possibilité d’ajouter du texte de remplacement à des images, des formes et des pages entières. En règle générale, un texte de remplacement court est suffisant pour une image ou une forme. Une description plus longue convient à une page. Consultez les directives générales relatives à l’accessibilité et la page <a href="https://support.office.com/en-us/article/make-your-visio-diagram-accessible-e2c847a9-f010-4fef-af65-16e252829d44">Rendre les diagrammes Visio accessibles (en anglais seulement)</a>.</p>
         <p>Pour ajouter un texte de remplacement à une image ou une forme&nbsp;:</p>
-        <p>Ouvrez le menu contextuel de l’image ou de la forme en cliquant à droite ou en appuyant sur la touche de l’application.</p>
-        <p>Sélectionnez <strong>Format de la forme</strong>.</p>
-        <p>Sélectionnez <img src="images/accessibility-document-images/visio-fr/image004.jpg" alt="icône taille et propriétés">(<strong>Taille et propriétés</strong>) et saisissez le texte de remplacement dans la boîte <strong>Description</strong>.</p>
+
+        <ul>
+          <li>Ouvrez le menu contextuel de l’image ou de la forme en cliquant à droite ou en appuyant sur la touche de l’application.</li>
+          <li>Sélectionnez <strong>Format de la forme</strong>.</li>
+          <li>Sélectionnez <img src="images/visio-02.gif" alt="icône taille et propriétés"> (<strong>Taille et propriétés</strong>) et saisissez le texte de remplacement dans la boîte <strong>Description</strong>.</li>
+        </ul>
+
         <p>Pour ajouter un texte de remplacement à une page complète, appuyez sur <strong>Maj +&nbsp;F5</strong>. Sélectionnez l’onglet <strong>Texte de remplacement</strong> et inscrivez la <strong>Description</strong>.</p>
 
         <h3>Vérificateur d’accessibilité</h3>
@@ -166,7 +183,7 @@
             <li><a href="https://www.w3.org/TR/WCAG21/">Règles pour l’accessibilité des contenus Web 2.1 (en anglais seulement)</a></li>
         </ul>
 
-        <ul class="pager">
+        <ul class="pager mrgn-tp-xl">
           <li class="previous small"><a href="documents-excel-accessibles.html" rel="prev">Précédent&nbsp;: Documents Excel accessibles</a></li>
           <li class="next small disabled"><a href="documents-pdf-accessibles.html" rel="next">Suivant</a></li>
         </ul>
