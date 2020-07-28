@@ -6,11 +6,11 @@
 <head>
     <meta charset="utf-8">
     <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-    <title>Diagrammes Visio accessibles - Directives relatives aux documents accessibles - Office 2016 - Boîte à outils d'accessibilité numérique - Gouvernement du Canada</title>
+    <title>Diagrammes Visio accessibles - Directives relatives aux documents accessibles - Office 365 - Boîte à outils d'accessibilité numérique - Gouvernement du Canada</title>
     <meta content="width=device-width,initial-scale=1" name="viewport">
     <!-- Meta data -->
     <meta name="description"
-        content="Pratiques accessibles pour la création de diagrammes Microsoft Visio 2016.">
+        content="Pratiques accessibles pour la création de diagrammes Microsoft Visio.">
     <!-- Meta data-->
     <!-- Load closure template scripts -->
     <script src="https://ssl-templates.services.gc.ca/rn/cls/wet/gcweb/cdts/compiled/soyutils.js"></script>
@@ -35,11 +35,11 @@
                 "href" : "../../index-fr.html"
             },{
                  "title": "Directives relatives aux documents accessibles",
-                 "href": "comment-creer-des-documents-accessibles.html"
+                 "href": "comment-creer-des-documents-accessibles-365.html"
             }],
             "lngLinks": [{
                 "lang": "en",
-                "href": "../../en/accessible-documents-guides-Office2016/accessible-visio-diagrams.html",
+                "href": "../../en/accessible-documents-guides-Office365/accessible-visio-diagrams-365.html",
                 "text": "English"
             }]
             // "menuPath": "./ajax/menu-fr.html"
@@ -50,11 +50,11 @@
 
         <div class="row mrgn-tp-lg">
           <ul class="toc lst-spcd col-md-12">
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="comment-creer-des-documents-accessibles.html">1. Comment créer des documents accessibles</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="documents-word-accessibles.html">2. Documents Word accessibles</a></li>
-            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="documents-pdf-accessibles.html">3. Documents PDF accessibles</a></li>
-            <li class="col-md-4 col-sm-6 clr-lft-md clr-lft-lg"><a class="list-group-item" href="documents-powerpoint-accessibles.html">4. Documents PowerPoint accessibles</a></li>
-            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="documents-excel-accessibles.html">5. Documents Excel accessibles</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="comment-creer-des-documents-accessibles-365.html">1. Comment créer des documents accessibles</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="documents-word-accessibles-365.html">2. Documents Word accessibles</a></li>
+            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="documents-pdf-accessibles-365.html">3. Documents PDF accessibles</a></li>
+            <li class="col-md-4 col-sm-6 clr-lft-md clr-lft-lg"><a class="list-group-item" href="documents-powerpoint-accessibles-365.html">4. Documents PowerPoint accessibles</a></li>
+            <li class="col-md-4 col-sm-6 clr-lft-sm"><a class="list-group-item" href="documents-excel-accessibles-365.html">5. Documents Excel accessibles</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item active">6. Diagrammes Visio accessibles</a></li>
           </ul>
         </div>
@@ -67,12 +67,10 @@
 
         <h3>Contraste du texte</h3>
         <p>Le contraste du texte doit être d’au moins 4,5:1 par rapport à l’arrière-plan. Comme les diagrammes sont souvent visualisés avec un zoom très faible, nous vous recommandons de maintenir, au minimum, ce niveau de contraste pour tous les textes, quelle qu’en soit la taille.</p>
-
-        <ul>
-          <li>Pour vérifier le contraste des couleurs, utilisez un outil comme l’<a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Analyseur de contraste des couleurs (en anglais seulement)</a> ou le <a href="https://webaim.org/resources/contrastchecker/">vérificateur de contraste de WebAIM (en anglais seulement)</a>.</li>
-          <li>Évitez de placer des images d’arrière-plan complexes derrière le texte.</li>
-          <li>Lorsqu’il est nécessaire d’utiliser des images d’arrière-plan complexes ou des fonds à faible contraste, définissez un contour autour du texte offrant un contraste suffisant par rapport à la couleur du texte en premier plan.</li>
-        </ul>
+        <p>Pour vérifier le contraste des couleurs, utilisez un outil comme l’<a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Analyseur de contraste des couleurs (en anglais seulement)</a> ou le <a
+        href="https://webaim.org/resources/contrastchecker/">vérificateur de contraste de WebAIM (en anglais seulement)</a>.</p>
+        <p>Évitez de placer des images d’arrière-plan complexes derrière le texte.</p>
+        <p> Lorsqu’il est nécessaire d’utiliser des images d’arrière-plan complexes ou des fonds à faible contraste, définissez un contour autour du texte offrant un contraste suffisant par rapport à la couleur du texte en premier plan.</p>
 
         <h3>Utilisation de la couleur seule pour transmettre de l’information</h3>
         <p>Veillez à ce que la couleur ne soit pas le seul moyen utilisé pour transmettre de l’information. Comme le codage par couleur est une stratégie souvent utilisée en infographie, il s’agit d’un problème d’accessibilité fréquent. Toute l’information transmise par couleur doit également être offerte par le biais d’autres méthodes d’identification (de façon visuelle et textuelle), comme des étiquettes, des symboles ou l’ajout d’un motif unique à la zone colorée.</p>
@@ -85,14 +83,16 @@
 
         <p>Comme les diagrammes sont souvent remplis d’abréviations, la définition de ces abréviations favorise la compréhension de tous les utilisateurs. Consultez les directives sur les <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-located.html">abréviations (en anglais seulement)</a> de WCAG.</p>
         <p>Si possible, selon la disposition, insérez les abréviations la première fois qu’elles apparaissent.<br>
-          P. ex. Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (AATIA)</p>
-        <p>Étant donné que les diagrammes sont souvent visualisés dans un ordre non linéaire, il est généralement préférable de <a href="https://www.w3.org/TR/WCAG20-TECHS/G62.html">fournir un glossaire (en anglais seulement)</a>. Le glossaire doit faire partie du texte du document, sous un en-tête comme «&#8201;Glossaire des abréviations&#8201;», de manière à pouvoir le retrouver facilement.</p>
+        P. ex. Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (AATIA)</p>
+        <p>Étant donné que les diagrammes sont souvent visualisés dans un ordre non linéaire, il est généralement préférable de <a href="https://www.w3.org/TR/WCAG20-TECHS/G62.html">fournir un glossaire (en anglais seulement)</a>. Le glossaire doit faire partie
+        du texte du document, sous un en-tête comme «&#8201;Glossaire des abréviations&#8201;», de manière à pouvoir le retrouver facilement.</p>
 
         <h3>Texte intégré à des images</h3>
         <p>À moins que ce ne soit essentiel, <a href="https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html">n’intégrez pas de texte à des images (en anglais seulement)</a>.</p>
 
         <h2>Solutions de remplacement en format texte</h2>
-        <p>Les diagrammes Visio, de par leur nature, transmettent l’information de façon visuelle. Bien que Visio comporte certaines fonctions pour aider les utilisateurs aveugles à naviguer à l’intérieur de documents (consultez la section «&#8201;Caractéristiques d’accessibilité de Visio&#8201;» ci-dessous), une solution de remplacement en format texte qui ne dépend pas de l’organisation visuelle est essentielle lors de l’exportation du document Visio au format PDF, en image ou lorsque vous intégrez le diagramme à un autre document ou à une page Web.</p>
+        <p>Les diagrammes Visio, de par leur nature, transmettent l’information de façon visuelle. Bien que Visio comporte certaines fonctions pour aider les utilisateurs aveugles à naviguer à l’intérieur de documents (consultez la section «&#8201;Caractéristiques d’accessibilité de Visio&#8201;» ci-dessous), une solution de remplacement en
+        format texte qui ne dépend pas de l’organisation visuelle est essentielle lors de l’exportation du document Visio au format PDF, en image ou lorsque vous intégrez le diagramme à un autre document ou à une page Web.</p>
 
         <h3>Aperçu du texte (de remplacement) court</h3>
         <p>Un court texte (65 caractères ou moins) doit répondre à la question «&#8201;quelle est l’information transmise par le diagramme?&#8201;» Le texte court peut servir de titre évocateur au diagramme. </p>
@@ -103,11 +103,7 @@
 
         <h4>Exemples</h4>
         <p>Dans le cas d’une carte routière avec itinéraires, la description longue décrit chaque étape permettant de suivre les itinéraires.</p>
-
-        <div class="row"><div class="col-md-7 mrgn-bttm-md">
-          <img class="img-responsive" src="images/visio-01.jpg" alt="Organigramme illustrant le processus de connexion">
-        </div></div>
-
+        <p><img src="images/visio-365-001.jpg" alt="Organigramme illustrant le processus de connexion"></p>
         <p>Pour transmettre adéquatement à tous les utilisateurs le message d’un organigramme, la description longue utilise des éléments numériques.</p>
 
         <div class="brdr-rds-0 well">
@@ -149,14 +145,14 @@
 
         <h2>Caractéristiques d’accessibilité de Visio</h2>
         <p>Microsoft a récemment publié un guide sur <a href="https://support.office.com/en-us/article/make-your-visio-diagram-accessible-e2c847a9-f010-4fef-af65-16e252829d44">Rendre les diagrammes Visio accessibles (en anglais seulement)</a>.</p>
-        <p>Il est important de comprendre <a href="https://support.office.com/en-us/article/use-a-screen-reader-to-read-visio-diagrams-45ff89fc-fcd8-4c99-bc21-70eb9af29a61">la façon dont un utilisateur de lecteur d’écran lit un diagramme Visio&nbsp;(en anglais seulement):</a></p>
-
+        <p>Il est important de comprendre <a href="https://support.office.com/en-us/article/use-a-screen-reader-to-read-visio-diagrams-45ff89fc-fcd8-4c99-bc21-70eb9af29a61">la façon dont un utilisateur de lecteur d’écran
+        lit un diagramme Visio&nbsp;(en anglais seulement):</a></p>
         <ul>
           <li>Ils utilisent la touche de tabulation pour passer d’une forme à l’autre dans un ordre prédéfini.</li>
           <li>Les formes sont décrites selon leur texte de remplacement («&#8201;alt text&#8201;»), leur position et leur mise en forme.</li>
           <li>Les points de départ et d’arrivée des connecteurs sont énoncés.</li>
         </ul>
-
+		
         <p>Voici donc les deux principales caractéristiques d’accessibilité des documents Visio&nbsp;: l’ordre de lecture et le texte de remplacement.</p>
 
         <h3>Ordre de lecture</h3>
@@ -171,7 +167,7 @@
         <ul>
           <li>Ouvrez le menu contextuel de l’image ou de la forme en cliquant à droite ou en appuyant sur la touche de l’application.</li>
           <li>Sélectionnez <strong>Format de la forme</strong>.</li>
-          <li>Sélectionnez <img src="images/visio-02.gif" alt="icône taille et propriétés"> (<strong>Taille et propriétés</strong>) et saisissez le texte de remplacement dans la boîte <strong>Description</strong>.</li>
+          <li>Sélectionnez <img src="images/visio-365-002.gif" alt="icône taille et propriétés"> (<strong>Taille et propriétés</strong>) et saisissez le texte de remplacement dans la boîte <strong>Description</strong>.</li>
         </ul>
 
         <p>Pour ajouter un texte de remplacement à une page complète, appuyez sur <strong>Maj +&nbsp;F5</strong>. Sélectionnez l’onglet <strong>Texte de remplacement</strong> et inscrivez la <strong>Description</strong>.</p>
@@ -186,9 +182,9 @@
             <li><a href="https://www.w3.org/TR/WCAG21/">Règles pour l’accessibilité des contenus Web 2.1 (en anglais seulement)</a></li>
         </ul>
 
-        <ul class="pager mrgn-tp-xl">
-          <li class="previous small"><a href="documents-excel-accessibles.html" rel="prev">Précédent&nbsp;: Documents Excel accessibles</a></li>
-          <li class="next small disabled"><a href="documents-pdf-accessibles.html" rel="next">Suivant</a></li>
+        <ul class="pager">
+          <li class="previous small"><a href="documents-excel-accessibles-365.html" rel="prev">Précédent&nbsp;: Documents Excel accessibles</a></li>
+          <li class="next small disabled"><a href="documents-pdf-accessibles-365.html" rel="next">Suivant</a></li>
         </ul>
 
         <div id="def-preFooter"></div>
