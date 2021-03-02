@@ -24,13 +24,9 @@
     </div>
     <script>
         var defTop = document.getElementById("def-top");
-        defTop.outerHTML = wet.builder.appTop({
-            "appName": [{
-                "text": "Digital Accessibility Toolkit",
-                "href": "../../index.html"
-            }],
+        defTop.outerHTML = wet.builder.top({
             "breadcrumbs" : [{
-                 "title": "Home",
+                 "title": "Digital Accessibility Toolkit",
                  "href" : "../../index.html"
              },{
                  "title": "Accessible document guides",
@@ -41,7 +37,7 @@
                 "href": "../../fr/directives-relatives-aux-documents-accessibles-Office2016/documents-excel-accessibles.html",
                 "text": "Français"
             }]
-            // "menuPath": "./ajax/menu-en.html"
+
         });
     </script>
     <main role="main" property="mainContentOfPage" class="container">
@@ -191,7 +187,7 @@
         <script src="../../scripts/preFooter.min.js"></script>
     </main>
     <div id="def-footer"></div>
-    <script src="../../scripts/appFooter.min.js"></script>
+    <script src="../../scripts/footer.min.js"></script>
     <script src="../../scripts/refFooter.min.js"></script>
   </body>
   </html>

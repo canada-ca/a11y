@@ -25,13 +25,9 @@
     <!-- Write closure template -->
     <script>
         var defTop = document.getElementById("def-top");
-        defTop.outerHTML = wet.builder.appTop({
-            "appName": [{
-                "text": "Boîte à outils d'accessibilité numérique",
-                "href": "../../index-fr.html"
-            }],
+        defTop.outerHTML = wet.builder.top({
            "breadcrumbs" : [{
-                "title": "Accueil",
+                "title": "Boîte à outils d'accessibilité numérique",
                 "href" : "../../index-fr.html"
             }],
             "lngLinks": [{
@@ -39,7 +35,6 @@
                 "href": "../../en/accessible-documents-guides-Office365/how-to-create-accessible-documents-365.html",
                 "text": "English"
             }]
-            // "menuPath": "./ajax/menu-fr.html"
         });
     </script>
     <main role="main" property="mainContentOfPage" class="container">
@@ -217,7 +212,7 @@
         <script src="../../scripts/preFooter.min.js"></script>
     </main>
     <div id="def-footer"></div>
-    <script src="../../scripts/appFooter.min.js"></script>
+    <script src="../../scripts/footer.min.js"></script>
     <script src="../../scripts/refFooter.min.js"></script>
   </body>
   </html>
