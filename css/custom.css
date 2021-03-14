@@ -1,0 +1,8 @@
+/* Custom styles  */
+
+/* Small elements in H1  */
+
+h1 small {
+	display: block;
+	margin-top: 15px;
+}
