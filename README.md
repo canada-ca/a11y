@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/canada-ca/template-gabarit.svg?branch=master)](https://travis-ci.org/canada-ca/template-gabarit)
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
+
+**Note: This project has been moved to [gc-da11yn/gc-da11yn.github.io](https://github.com/gc-da11yn/gc-da11yn.github.io). All pages have been redirected**
 
 ## Digital Accessibility Toolkit - Guidance and resources from Government of Canada's experts
 
@@ -25,6 +26,8 @@ The Canada wordmark and related graphics associated with this distribution are p
 ______________________
 
 ## Boîte à outils d'accessibilité numérique - Conseils et ressources d'experts du gouvernement du Canada
+
+**Ce projet a été déplacé [gc-da11yn/gc-da11yn.github.io](https://github.com/gc-da11yn/gc-da11yn.github.io). Toutes les pages ont été redirigées.**
 
 ### Objectif
 La boîte à outils d'accessibilité numérique est un endroit où les experts au sein du Gouvernement du Canada \( GC\) peuvent partager des documents, guides, stratégies et autres ressources liées à l'accessibilité et qui peuvent bénéficier tout le monde.
